@@ -1,0 +1,5 @@
+summary: A command-line tool for transferring data from/to an HTTP, HTTPS or FTP server
+webpage: https://curl.haxx.se/
+version: 8.14.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.3-amd64/releases/download/2025.07.25/curl-8.14.1-openbsd-7.3-amd64.release.tar.xz 
+bin-sha: 95b1e0b12e6a8c7d7804f67674f9da3549b1b698698d61579f7a7887a4d0149e

@@ -1,0 +1,5 @@
+summary: A lightweight and flexible command-line JSON processor
+webpage: https://stedolan.github.io/jq
+version: 1.8.0 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.3-amd64/releases/download/2025.07.25/jq-1.8.0-openbsd-7.3-amd64.release.tar.xz 
+bin-sha: ac49aa8154e8c3af56cab6aa534d6c44c9cab01a8ebb2713310192a2bde12e1a

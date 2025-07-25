@@ -1,0 +1,5 @@
+summary: Cryptography and SSL/TLS Toolkit
+webpage: https://www.openssl.org/
+version: 3.5.1 
+bin-url: https://github.com/leleliu008/uppm-package-repository-openbsd-7.3-amd64/releases/download/2025.07.25/openssl-3.5.1-openbsd-7.3-amd64.release.tar.xz 
+bin-sha: 2ea1b5266afe34e1c54b0c163a547736fb7636bb27f0492bd817fbe87eb4e61c
